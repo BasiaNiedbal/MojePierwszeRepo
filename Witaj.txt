@@ -1,0 +1,6 @@
+Witaj w MojePierwszeRepo!
+
+To jest prosty plik powitalny zawierający przykładowe linie tekstu.
+Repozytorium zostało utworzone w ramach nauki pracy z Git.
+
+Życzymy miłej pracy z kodem!
