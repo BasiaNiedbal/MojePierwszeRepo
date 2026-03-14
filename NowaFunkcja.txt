@@ -1,0 +1,5 @@
+Nowa funkcjonalność w gałęzi rozwoj
+
+Ten plik został dodany w gałęzi "rozwoj" (development).
+Przedstawia on przykładową nową funkcję, która zostanie wprowadzona do projektu
+po scaleniu z gałęzią główną poprzez Pull Request.
