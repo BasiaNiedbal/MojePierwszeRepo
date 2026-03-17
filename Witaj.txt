@@ -3,4 +3,9 @@ Witaj w MojePierwszeRepo!
 To jest prosty plik powitalny zawierający przykładowe linie tekstu.
 Repozytorium zostało utworzone w ramach nauki pracy z Git.
 
-Życzymy miłej pracy z kodem!
+Co znajdziesz w tym projekcie?
+• Pliki powitalne i przykładowe
+• Gałęzie rozwojowe do nauki workflow (main, rozwoj)
+• Praktykę pracy z Issues i Pull Requestami
+
+Dziękujemy za odwiedziny! Miłej nauki i owocnej pracy! 
